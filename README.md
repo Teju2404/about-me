@@ -12,8 +12,8 @@ I will be using this repository for developing Web Application and posting.
 
 Below are the some Tools required for the publishing a repo with Github pages.
 
-- Google Chrome
-- Tortoise Git
-- [Visual Studio](https://code.visualstudio.com/docs)
-- [GitHub](https://github.com/)
+- Google Chrome: browser used to view detailed project
+- Tortoise Git: For pushing the code to git from local machine
+- [Visual Studio](https://code.visualstudio.com/docs): To write html
+- [GitHub](https://github.com/): Used to publish the repo
 
