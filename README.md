@@ -27,7 +27,7 @@ Below are the some Tools required for the publishing a repo with Github pages.
 
 ##  Contributors
 
-Iam TEJASWI REDDY KANDULA,Pursuing my Master's Program at North West Missouri State University.
+I'm TEJASWI REDDY KANDULA,Pursuing my Master's Program at North West Missouri State University.
 
 ![image](https://github.com/Teju2404/about-me/blob/master/ColdenPond.jpg?raw=true)
 
