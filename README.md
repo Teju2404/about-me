@@ -29,7 +29,7 @@ Below are the some Tools required for the publishing a repo with Github pages.
 
 Iam TEJASWI REDDY KANDULA,Pursuing my Master's Program at North West Missouri State University.
 
-![image](https://cdn.hitc-s.com/i/1485/harry_potter_goblet_of_fire__1251856.jpg)
+![image]()
 
 
 
