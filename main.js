@@ -16,3 +16,15 @@ var joker = document.querySelector('#trigger');
             ajax.open('GET','https://api.chucknorris.io/jokes/random',true);
             ajax.send();
         }
+let rectangle = (base, height) =>{
+    return base*height;
+}
+
+
+function calculateRectangle(){
+    let baseValue = parseInt(document.getElementById("base").value);
+    let heightValue = parseInt(document.getElementById("height").value);
+    let result = rectangle(baseValue, heightValue);
+    let resultElement = document.getElementById("resutSet");
+    resultElement.innerHTML = "Area of Rectangle is : "+result;
+}
